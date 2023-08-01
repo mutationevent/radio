@@ -28,5 +28,18 @@
         "image": "https://cdn.webrad.io/images/logos/radio-co-ma/med.png",
         "title": "Med Radio",
         "isAac": false
+    },
+    {
+        "url": "https://streamer.eagrpservices.com/audio/radiomars.mp3",
+        "image": "https://cdn.webrad.io/images/logos/radio-co-ma/mars.png",
+        "title": "Radio Mars",
+        "isAac": false
+    },
+    {
+        "url": "http://icepe7/aswat-high.mp3",
+        "image": "https://cdn.webrad.io/images/logos/radio-co-ma/aswat.png",
+        "title": "Aswat",
+        "isAac": false
     }
+    
 ]
