@@ -16,5 +16,11 @@
         "image": "https://cdn.webrad.io/images/logos/radio-co-ma/medi.png",
         "title": "chadafm",
         "isAac": false
+    },
+    {
+        "url": "https://streaming1.medi1tv.com/radio/radio_mag.stream_aac/playlist.m3u8",
+        "image": "https://cdn.webrad.io/images/logos/radio-co-ma/medi.png",
+        "title": "Medi 1",
+        "isAac": true
     }
 ]
