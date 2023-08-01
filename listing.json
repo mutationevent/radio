@@ -39,7 +39,14 @@
         "url": "http://icepe7/aswat-high.mp3",
         "image": "https://cdn.webrad.io/images/logos/radio-co-ma/aswat.png",
         "title": "Aswat",
-        "isAac": false
+        "isAac": true
+    },
+    {
+        "url": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+        "image": "https://cdn.webrad.io/images/logos/radio-co-ma/hit.png",
+        "title": "Hit Radio",
+        "isAac": true
     }
+    
     
 ]
