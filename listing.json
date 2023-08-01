@@ -46,7 +46,14 @@
         "image": "https://cdn.webrad.io/images/logos/radio-co-ma/hit.png",
         "title": "Hit Radio",
         "isAac": true
+    },
+    {
+        "url": "https://streamer.eagrpservices.com/audio/mfmradio.ogg",
+        "image": "https://cdn.webrad.io/images/logos/radio-co-ma/mfm.png",
+        "title": "MFM Radio",
+        "isAac": true
     }
+    
     
     
 ]
